@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+redis
+langgraph
+sentence-transformers
+numpy
+requests
